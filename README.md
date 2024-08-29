@@ -20,3 +20,10 @@
   <a href="https://www.linkedin.com/in/matheus-moya-de-oliveira-ab52191b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+
+<a href="https://github.com/matheusmoyaoliveira">
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=HellmatGa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellmatGa&layout=compact&langs_count=7&theme=dark"/>
+</div>
