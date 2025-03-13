@@ -2,7 +2,8 @@
 
 
 - 🔭 Aspiring Software Engineer
-- 📚 Alura student
+- 📚 FIAP Student
+- 📚 Alura Student
 - 📖 Looking for your first job
 
 <div style="display: inline_block"><br>
