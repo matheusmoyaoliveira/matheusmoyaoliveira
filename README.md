@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Matheus Moya Oliveira
 
-Sou um desenvolvedor Back-End em formação com foco em **Python** e **Java**. Estou atualmente cursando **Análise e Desenvolvimento de Sistemas na FIAP** e realizando diversos cursos complementares na Alura e no Curso em Vídeo.
+Sou um desenvolvedor Back-End em formação com foco em **Python** e **Java**. Atualmente curso **Análise e Desenvolvimento de Sistemas na FIAP** e complemento minha formação com cursos na **Alura** e no **Curso em Vídeo**.
 
-Tenho paixão por tecnologia, estou em transição de carreira e sempre em busca de crescimento e aprendizado constante. Desenvolvo projetos acadêmicos, pessoais e também estudos práticos para aprimorar minhas habilidades técnicas.
+Tenho paixão por tecnologia, estou em transição de carreira e sempre em busca de crescimento e aprendizado constante. Desenvolvo projetos acadêmicos, pessoais e estudos práticos para aprimorar minhas habilidades técnicas.
 
 ![Seguidores](https://img.shields.io/github/followers/matheusmoyaoliveira?label=Seguidores&style=social)
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=matheusmoyaoliveira)
@@ -52,7 +52,7 @@ Atividades desenvolvidas ao longo do curso de Python do professor Gustavo Guanab
 
 ---
 
-## 🧠 Atualmente estou:
+## 🧠 Atualmente estou
 
 - Estudando **Back-End** com foco em Python e Java
 - Aprendendo boas práticas de desenvolvimento com Git e GitHub
@@ -61,7 +61,26 @@ Atividades desenvolvidas ao longo do curso de Python do professor Gustavo Guanab
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusmoyaoliveira&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmoyaoliveira&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 🎯 Objetivo
+
+Conquistar uma vaga como estagiário ou desenvolvedor júnior na área de Back-End, contribuindo com projetos e adquirindo experiência prática no mercado de tecnologia.
+
+---
+
+## 📬 Contato
+
+- 📧 Email: [matheus.dev.moya@hotmail.com](mailto:matheus.dev.moya@hotmail.com)  
+- 💼 Linked
+
 
 Conquistar uma vaga como estagiário ou desenvolvedor júnior na área de Back-End, contribuindo com projetos e adquirindo experiência prática no mercado de tecnologia.
 
