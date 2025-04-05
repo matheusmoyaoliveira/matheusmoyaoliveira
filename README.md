@@ -1,55 +1,76 @@
-# 👋 Olá! Eu sou o Matheus Moya
+# 👋 Olá, eu sou o Matheus Moya Oliveira
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na FIAP, com foco em desenvolvimento **Back-End**. Tenho explorado linguagens como **Python** e **Java**, além de tecnologias relacionadas a **banco de dados**, **versionamento com Git/GitHub** e **lógica de programação**.
+Sou um desenvolvedor Back-End em formação com foco em **Python** e **Java**. Estou atualmente cursando **Análise e Desenvolvimento de Sistemas na FIAP** e realizando diversos cursos complementares na Alura e no Curso em Vídeo.
 
-Estou constantemente em busca de aprendizado e de colocar meus conhecimentos em prática por meio de projetos simples e objetivos.
+Tenho paixão por tecnologia, estou em transição de carreira e sempre em busca de crescimento e aprendizado constante. Desenvolvo projetos acadêmicos, pessoais e também estudos práticos para aprimorar minhas habilidades técnicas.
 
----
-
-## 🚀 Tecnologias e Ferramentas
-
-- 💻 **Linguagens:** Python, Java, JavaScript, HTML, CSS  
-- 🛠️ **Ferramentas:** Git, GitHub, VSCode  
-- 🗄️ **Banco de dados:** MySQL, JSON  
-- 📚 **Conceitos:** Lógica de Programação, POO (Programação Orientada a Objetos), Desenvolvimento Web
+![Seguidores](https://img.shields.io/github/followers/matheusmoyaoliveira?label=Seguidores&style=social)
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=matheusmoyaoliveira)
 
 ---
 
-## 📌 Repositórios em Destaque
+## 🚀 Tecnologias e Habilidades
 
-### 🔧 Projetos de Aprendizado
-- [**alura-python**](https://github.com/matheusmoyaoliveira/alura-python) – Exercícios e mini projetos desenvolvidos durante o curso de Python da Alura.  
-- [**python**](https://github.com/matheusmoyaoliveira/python) – Conteúdo e exercícios do curso de Python do Curso em Vídeo (Gustavo Guanabara).  
-- [**alura-js-logica-de-programacao**](https://github.com/matheusmoyaoliveira/alura-js-logica-de-programacao) – Atividades com foco em lógica de programação usando JavaScript.
-
-### 💼 Projetos Web
-- [**projeto-site**](https://github.com/matheusmoyaoliveira/projeto-site) – Página web com layout responsivo, desenvolvida com HTML e CSS.  
-- [**projeto-login**](https://github.com/matheusmoyaoliveira/projeto-login) – Página de login com design limpo e campos de autenticação.  
-- [**projeto-social**](https://github.com/matheusmoyaoliveira/projeto-social) – Interface para rede social simples (estática).  
-- [**projeto-cordel**](https://github.com/matheusmoyaoliveira/projeto-cordel) – Página estilizada com HTML e CSS inspirada em cordel nordestino.  
-- [**projeto-android**](https://github.com/matheusmoyaoliveira/projeto-android) – Página fictícia de app Android, com foco em design.
-
-### 📁 Outros Repositórios
-- [**fiap-1TDSPV---aulas**](https://github.com/matheusmoyaoliveira/fiap-1TDSPV---aulas) – Projetos e atividades da faculdade (FIAP).  
-- [**praticas-programacao**](https://github.com/matheusmoyaoliveira/praticas-programacao) – Repositório reservado para práticas futuras de programação.
+- 🔹 **Linguagens de Programação:** Python, Java, JavaScript
+- 🔹 **Web:** HTML5, CSS3
+- 🔹 **Banco de Dados:** MySQL, JSON
+- 🔹 **Versionamento de Código:** Git e GitHub
+- 🔹 **Paradigmas de Programação:** Programação Orientada a Objetos, Lógica de Programação
+- 🔹 **Soft Skills:** Organização, Comunicação, Proatividade
 
 ---
 
-## ✉️ Contato
+## 📁 Meus Repositórios Principais
 
-- 📧 E-mail: matheus.dev.moya@hotmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheusmoyaoliveira/)  
-- 🖥️ [Portfólio (em breve)]()  
+### 🔷 [fiap-projetos-faculdade](https://github.com/matheusmoyaoliveira/fiap-projetos-faculdade)
+Projetos desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas na FIAP. Contém exercícios práticos e aplicações simples com foco em aprendizado.
 
----
-
-Obrigado pela visita! ⭐ Se gostou de algum projeto, fique à vontade para clonar ou contribuir!
-
-
-- [praticas-programacao](https://github.com/matheusmoyaoliveira/praticas-programacao) – Repositório reservado para práticas futuras. Em breve novos projetos com foco em back-end.
+![Linguagens](https://img.shields.io/github/languages/count/matheusmoyaoliveira/fiap-projetos-faculdade)
+![Principal Linguagem](https://img.shields.io/github/languages/top/matheusmoyaoliveira/fiap-projetos-faculdade)
+![Último Commit](https://img.shields.io/github/last-commit/matheusmoyaoliveira/fiap-projetos-faculdade)
+![Tamanho](https://img.shields.io/github/repo-size/matheusmoyaoliveira/fiap-projetos-faculdade)
 
 ---
 
-📫 Entre em contato: [matheus.dev.moya@hotmail.com](mailto:matheus.dev.moya@hotmail.com)
+### 🔷 [alura-python](https://github.com/matheusmoyaoliveira/alura-python)
+Projetos e exercícios realizados com base nos cursos da Alura. Inclui práticas com Python, fundamentos, orientação a objetos e aplicações iniciais.
 
-🔗 Me acompanhe também no [LinkedIn](https://www.linkedin.com/in/matheusmoyaoliveira/)
+![Linguagens](https://img.shields.io/github/languages/count/matheusmoyaoliveira/alura-python)
+![Principal Linguagem](https://img.shields.io/github/languages/top/matheusmoyaoliveira/alura-python)
+![Último Commit](https://img.shields.io/github/last-commit/matheusmoyaoliveira/alura-python)
+![Tamanho](https://img.shields.io/github/repo-size/matheusmoyaoliveira/alura-python)
+
+---
+
+### 🔷 [curso-python-video](https://github.com/matheusmoyaoliveira/curso-python-video)
+Atividades desenvolvidas ao longo do curso de Python do professor Gustavo Guanabara no Curso em Vídeo.
+
+![Linguagens](https://img.shields.io/github/languages/count/matheusmoyaoliveira/curso-python-video)
+![Principal Linguagem](https://img.shields.io/github/languages/top/matheusmoyaoliveira/curso-python-video)
+![Último Commit](https://img.shields.io/github/last-commit/matheusmoyaoliveira/curso-python-video)
+![Tamanho](https://img.shields.io/github/repo-size/matheusmoyaoliveira/curso-python-video)
+
+---
+
+## 🧠 Atualmente estou:
+
+- Estudando **Back-End** com foco em Python e Java
+- Aprendendo boas práticas de desenvolvimento com Git e GitHub
+- Participando de cursos na **FIAP**, **Alura** e **Curso em Vídeo**
+- Buscando oportunidades de **estágio** na área de desenvolvimento
+
+---
+
+## 🎯 Objetivo
+
+Conquistar uma vaga como estagiário ou desenvolvedor júnior na área de Back-End, contribuindo com projetos e adquirindo experiência prática no mercado de tecnologia.
+
+---
+
+## 📬 Contato
+
+- 📧 Email: [matheus.dev.moya@hotmail.com](mailto:matheus.dev.moya@hotmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/matheusmoyaoliveira](https://www.linkedin.com/in/matheusmoyaoliveira/)  
+- 🐙 GitHub: [github.com/matheusmoyaoliveira](https://github.com/matheusmoyaoliveira)
+
+---
