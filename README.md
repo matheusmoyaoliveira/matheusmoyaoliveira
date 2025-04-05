@@ -1,30 +1,43 @@
-# Olá, bem vindo ao meu GitHub 👾🖥
+<h1 align="center">Olá! Eu sou o Matheus 👋</h1>
 
+<p align="center">
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas na <strong>FIAP</strong><br>
+  💻 Apaixonado por tecnologia, programação e desenvolvimento web<br>
+  🚀 Em busca de uma oportunidade como <strong>estagiário na área de tecnologia</strong>
+</p>
 
-- 🔭 Aspiring Software Engineer
-- 📚 FIAP Student
-- 📚 Alura Student
-- 📖 Looking for your first job
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+### 💼 Sobre mim
 
-##
+Atualmente estou me aprofundando em linguagens como **Python** e **Java**, além de práticas com **Git, GitHub** e conceitos de **Lógica de Programação** e **Orientação a Objetos**.  
+Tenho interesse em Desenvolvimento Web e estou aberto a aprender novas tecnologias e ferramentas.
 
-<div> 
-  <a href="https://instagram.com/mattmh_kongo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:matheus.dev.moya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-moya-de-oliveira-ab52191b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
 
-##
+### 🧰 Tecnologias e ferramentas
 
-<a href="https://github.com/matheusmoyaoliveira">
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=matheusmoyaoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmoyaoliveira&layout=compact&langs_count=7&theme=dark"/>
+- 💡 Linguagens: `Python`, `Java`, `JavaScript`
+- 🗃️ Banco de Dados: `MySQL`, `JSON`
+- 🔧 Ferramentas: `Git`, `GitHub`, `VS Code`, `Figma`
+- 🌐 Aprendendo: `HTML`, `CSS`, `Node.js`
+
+---
+
+### 📌 Projetos em destaque
+
+Em breve colocarei aqui os links para meus projetos com Python e Java. Fique à vontade para acompanhar!
+
+---
+
+### 📫 Onde me encontrar
+
+- 📧 Email: [matheus.dev.moya@hotmail.com](mailto:matheus.dev.moya@hotmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/matheusmoyaoliveira](https://www.linkedin.com/in/matheusmoyaoliveira)  
+- 💻 GitHub: [github.com/matheusmoyaoliveira](https://github.com/matheusmoyaoliveira)
+
+---
+
+<div align="center">
+  Obrigado por visitar meu perfil 🤝
 </div>
