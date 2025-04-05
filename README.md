@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Estudante de Análise e Desenvolvimento de Sistemas | FIAP <br>
-  🚀 Focado em Desenvolvimento Web, Programação e Lógica <br>
+  🚀 Focado em Desenvolvimento de Software, Programação e Lógica <br>
   📍 São Paulo - SP | Brasil
 </p>
 
