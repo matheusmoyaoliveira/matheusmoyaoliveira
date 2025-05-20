@@ -79,16 +79,6 @@ Conquistar uma vaga como estagiário ou desenvolvedor júnior na área de Back-E
 ## 📬 Contato
 
 - 📧 Email: [matheus.dev.moya@hotmail.com](mailto:matheus.dev.moya@hotmail.com)  
-- 💼 Linked
-
-
-Conquistar uma vaga como estagiário ou desenvolvedor júnior na área de Back-End, contribuindo com projetos e adquirindo experiência prática no mercado de tecnologia.
-
----
-
-## 📬 Contato
-
-- 📧 Email: [matheus.dev.moya@hotmail.com](mailto:matheus.dev.moya@hotmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/matheusmoyaoliveira](https://www.linkedin.com/in/matheusmoyaoliveira/)  
 - 🐙 GitHub: [github.com/matheusmoyaoliveira](https://github.com/matheusmoyaoliveira)
 
