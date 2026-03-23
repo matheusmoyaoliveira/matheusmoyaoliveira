@@ -1,72 +1,138 @@
-# Matheus Moya de Oliveira
+# Olá, eu sou Matheus Oliveira 👋
 
-## Desenvolvedor Back-End | Python & Java | Inteligência Artificial
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, com foco em **desenvolvimento Back-End**, **Python**, **Java** e aplicações com **Inteligência Artificial**.
 
-Sou um desenvolvedor em formação com foco em **Back-End** e **Inteligência Artificial**, aplicando soluções práticas com **Python**, **Java** e **bancos de dados relacionais**.  
-Busco constantemente aprimorar minha lógica, boas práticas de código e conhecimento em integração entre sistemas e automação inteligente.
+Atualmente, estou construindo projetos voltados para problemas reais, com foco em **APIs**, **integrações**, **persistência de dados**, **automação** e organização de código seguindo boas práticas de desenvolvimento.
+
+Meu objetivo é conquistar uma oportunidade na área de tecnologia onde eu possa evoluir tecnicamente, colaborar com o time e gerar impacto com soluções bem estruturadas.
 
 ---
 
-## 🧠 Tecnologias Principais
+## Posicionamento profissional
 
+Tenho direcionado minha formação para o desenvolvimento de soluções com foco em:
+
+- construção de **APIs e aplicações Back-End**
+- integração entre sistemas e serviços
+- modelagem e persistência de dados
+- automação de processos
+- desenvolvimento de projetos com aplicação prática para portfólio
+
+Busco uma oportunidade para atuar principalmente com **Back-End em Python ou Java**, contribuindo com organização, aprendizado contínuo e desenvolvimento de soluções que resolvam problemas de negócio de forma objetiva.
+
+---
+
+## Stack principal
+
+### Linguagens e desenvolvimento
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Back-End e banco de dados
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Ferramentas e versionamento
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![API REST](https://img.shields.io/badge/API%20REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em destaque
 
-### [hc-whatsapp-reminder](https://github.com/matheusmoyaoliveira/hc-whatsapp-reminder)
-> Sistema automatizado de lembretes via **WhatsApp Cloud API** para consultas médicas.
-- Desenvolvido em Python com integração à **API da Meta Cloud**.  
-- Uso de **variáveis dinâmicas**, **templates aprovados** e **mensagens automáticas**.  
-- Aplicado em contexto real de **telemedicina**.
+### 1. NeuroAI – Lembretes Inteligentes para Teleconsultas
+Projeto voltado para redução de faltas em teleconsultas por meio de **automação de lembretes via WhatsApp**.
 
-### [gateway-pagamento](https://github.com/matheusmoyaoliveira/gateway-pagamento)
-> Simulação de um **gateway de pagamentos** completo em Java.
-- Estrutura em **camadas** (modelo, serviço e persistência).  
-- Persistência em **JSON** e exportações em **CSV** e **Markdown**.  
-- Uso de **GitFlow** e organização por **branches**.  
+**Destaques do projeto:**
+- automação de notificações em diferentes janelas de tempo
+- integração com API de mensageria
+- fluxo pensado para contexto real de saúde digital
+- foco em usabilidade, comunicação e apoio operacional
 
-### [gerenciador_tarefas](https://github.com/matheusmoyaoliveira/gerenciador_tarefas)
-> Sistema simples de gerenciamento de tarefas em console (Java).
-- Focado em **orientação a objetos** e **persistência em arquivos**.  
-- Projeto acadêmico evolutivo com **melhoria contínua de código**.
+**Tecnologias utilizadas:** Python, Flask, API REST, automação, integrações
 
 ---
 
-## 🎓 Certificações Principais
+### 2. Gateway de Pagamento
+Sistema desenvolvido em **Java** com foco em simulação e gerenciamento de transações de pagamento.
 
-- **FIAP** — Computational Thinking Using Python  
-- **FIAP** — Domain Driven Design Using Java  
-- **FIAP** — Artificial Intelligence & Chatbot  
-- **Alura** — Python: Crie sua Primeira Aplicação  
-- **Alura** — Java: Criando sua Primeira Aplicação  
-- **Alura** — Git e GitHub: Compartilhando e Colaborando
+**Destaques do projeto:**
+- estrutura orientada a objetos
+- controle de pagamentos por status
+- exportação de dados em múltiplos formatos
+- organização voltada para evolução futura do projeto
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusmoyaoliveira&show_icons=true&theme=github_dark&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmoyaoliveira&layout=compact&theme=github_dark&hide_border=true" height="160px"/>
-</p>
+**Tecnologias utilizadas:** Java, orientação a objetos, manipulação de arquivos, lógica de negócio
 
 ---
 
-## 📫 Contato
+### 3. Dashboard Financeiro
+Aplicação em **Python** para organização e visualização de dados financeiros, com foco em acompanhamento e análise.
 
-- **E-mail:** [matheus.dev.moya@hotmail.com](mailto:matheus.dev.moya@hotmail.com)  
-- **LinkedIn:** [linkedin.com/in/matheusmoyaoliveira](https://www.linkedin.com/in/matheusmoyaoliveira)
+**Destaques do projeto:**
+- visualização de dados de forma clara
+- organização por categorias e períodos
+- persistência de informações
+- projeto com foco em experiência prática e apresentação visual
+
+**Tecnologias utilizadas:** Python, Streamlit, manipulação de dados, interface interativa
 
 ---
 
-> “O aprendizado contínuo é a base de um bom desenvolvedor — e cada linha de código é uma nova oportunidade de evolução.”
+## Como posso contribuir
+
+Além do aprendizado acadêmico, venho desenvolvendo projetos para praticar competências importantes para o mercado, como:
+
+- organização de código e separação de responsabilidades
+- consumo e criação de APIs
+- integração entre camadas da aplicação
+- modelagem de dados e persistência
+- versionamento com Git e GitHub
+- documentação técnica de projetos
+
+Tenho interesse em oportunidades onde eu possa atuar, aprender com o time e evoluir em ambientes que valorizem desenvolvimento técnico, boas práticas e construção de soluções reais.
+
+---
+
+## Certificações e estudos complementares
+
+Tenho realizado cursos e formações complementares com foco em desenvolvimento, incluindo conteúdos de:
+
+- Python
+- Java
+- lógica de programação
+- Git e GitHub
+- banco de dados
+- fundamentos de desenvolvimento de software
+
+Esses estudos vêm sendo aplicados diretamente nos projetos que construo para meu portfólio.
+
+---
+
+## Estatísticas
+
+<div align="center">
+  <a href="https://github.com/matheusmoyaoliveira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmoyaoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmoyaoliveira&layout=compact&langs_count=8&theme=tokyonight" />
+  </a>
+</div>
+
+---
+
+## Contato
+
+- **LinkedIn:** [linkedin.com/in/matheusmoyaoliveira](https://www.linkedin.com/in/matheusmoyaoliveira/)
+- **GitHub:** [github.com/matheusmoyaoliveira](https://github.com/matheusmoyaoliveira)
+
+---
+
+## Mensagem final
+
+Estou em construção constante como desenvolvedor e venho transformando estudo em prática por meio de projetos que reforçam minha base em **Back-End**, **integrações**, **dados** e **soluções aplicadas**.
+
+Meu foco agora é dar o próximo passo profissionalmente e contribuir de forma concreta em uma oportunidade na área de tecnologia.
