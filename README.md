@@ -31,20 +31,39 @@ Busco uma oportunidade para atuar principalmente com **Back-End em Python ou Jav
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Back-End e banco de dados
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Ferramentas e versionamento
+### Ferramentas, versionamento e deploy
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
 ## Projetos em destaque
 
-### 1. NeuroAI – Lembretes Inteligentes para Teleconsultas
+### 1. Mercado Express API — REST com HATEOAS e Deploy
+API REST em **Java/Spring Boot** para gerenciamento de produtos, construída com foco em maturidade REST completa e boas práticas de arquitetura.
+
+**Destaques do projeto:**
+- CRUD completo (Create, Read, Update, Delete) com semânticas corretas de PUT (substituição total) vs PATCH (atualização parcial)
+- **HATEOAS** implementado (nível 3 do Modelo de Maturidade de Richardson), com links de navegação dinâmicos via Spring HATEOAS
+- Persistência em **Oracle Database** via Spring Data JPA, com geração de ID por `SEQUENCE` e tratamento de limite de conexões simultâneas
+- Tratamento de erros centralizado (`@RestControllerAdvice`), retornando respostas HTTP estruturadas
+- Documentação automática via **Swagger/OpenAPI**
+- **Deploy em produção via Docker** (build multi-stage), com variáveis de ambiente para credenciais — nenhum segredo versionado no repositório
+- Arquitetura em camadas (Controller/Service/Repository) com separação clara de responsabilidades
+
+**Tecnologias utilizadas:** Java 21, Spring Boot, Spring Data JPA, Spring HATEOAS, Lombok, Oracle, Docker, Maven
+
+---
+
+### 2. NeuroAI – Lembretes Inteligentes para Teleconsultas
 Projeto voltado para redução de faltas em teleconsultas por meio de **automação de lembretes via WhatsApp**.
 
 **Destaques do projeto:**
@@ -57,7 +76,7 @@ Projeto voltado para redução de faltas em teleconsultas por meio de **automaç
 
 ---
 
-### 2. Gateway de Pagamento
+### 3. Gateway de Pagamento
 Sistema desenvolvido em **Java** com foco em simulação e gerenciamento de transações de pagamento.
 
 **Destaques do projeto:**
@@ -70,7 +89,7 @@ Sistema desenvolvido em **Java** com foco em simulação e gerenciamento de tran
 
 ---
 
-### 3. Dashboard Financeiro
+### 4. Dashboard Financeiro
 Aplicação em **Python** para organização e visualização de dados financeiros, com foco em acompanhamento e análise.
 
 **Destaques do projeto:**
@@ -93,6 +112,7 @@ Além do aprendizado acadêmico, venho desenvolvendo projetos para praticar comp
 - modelagem de dados e persistência
 - versionamento com Git e GitHub
 - documentação técnica de projetos
+- deploy de aplicações em produção (Docker, containers)
 
 Tenho interesse em oportunidades onde eu possa atuar, aprender com o time e evoluir em ambientes que valorizem desenvolvimento técnico, boas práticas e construção de soluções reais.
 
@@ -127,6 +147,7 @@ Esses estudos vêm sendo aplicados diretamente nos projetos que construo para me
 ## Contato
 
 - **LinkedIn:** [linkedin.com/in/matheusmoyaoliveira](https://www.linkedin.com/in/matheusmoyaoliveira/)
+- **E-mail:** matheus.dev.moya@hotmail.com
 - **GitHub:** [github.com/matheusmoyaoliveira](https://github.com/matheusmoyaoliveira)
 
 ---
